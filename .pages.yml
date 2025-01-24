@@ -27,7 +27,7 @@ content:
           - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
   - name: home
-    label: About page
+    label: Home page
     type: file
     path: content/index.md
     fields:
